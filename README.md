@@ -212,10 +212,7 @@ Production deployment experience across **AWS, Google Cloud Platform, Cloud Run,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prodeveloperpy-hash&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=06b6d4&text_color=64748b" alt="Fiaz Hussain GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodeveloperpy-hash&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b" alt="Most-used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prodeveloperpy-hash&theme=transparent&hide_border=true&ring=2563eb&fire=06b6d4&currStreakLabel=2563eb" alt="GitHub contribution streak" />
+![Fiaz Hussain GitHub Activity 2026](assets/github-activity-2026.svg)
 
 </div>
 
