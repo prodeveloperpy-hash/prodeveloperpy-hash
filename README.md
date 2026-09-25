@@ -126,19 +126,31 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 </details>
 
-## 🧠 Featured Project Demo — Resume Analytics
+## 🎬 Featured Project Demos
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/projects/system-chatbot-demo.gif" alt="AI system optimization and chatbot project demo" width="100%"><br>
+      <h3>⚡ AI System Optimization &amp; Chat Assistant</h3>
+      <sub><b>Performance Analysis · Code Optimization · AI Assistance · Developer Workflow</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/projects/ecommerce-website-demo.gif" alt="OBSIDIAN ecommerce website project demo" width="100%"><br>
+      <h3>🛒 E-Commerce Website</h3>
+      <sub><b>Premium Storefront · Product Experience · Customer Account · Order Workflow</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="assets/projects/resume-analytics-demo.gif" alt="Resume Analytics AI Recruitment Copilot project demo" width="75%"><br>
+      <h3>🧠 Resume Analytics — AI Recruitment Copilot</h3>
+      <sub><b>Resume Analysis · Job Description Workflow · AI-Powered Assistance · Recruitment Technology</b></sub>
+    </td>
+  </tr>
+</table>
 
-<img src="assets/projects/resume-analytics-demo.gif" alt="Resume Analytics AI Recruitment Copilot project demo" width="900">
-
-### AI Recruitment Copilot
-
-**Resume Analysis** · **Job Description Workflow** · **AI-Powered Assistance** · **Recruitment Technology**
-
-<sub>Interactive workflow preview optimized for fast loading on GitHub.</sub>
-
-</div>
+<div align="center"><sub>Silent autoplay previews optimized for fast loading on GitHub.</sub></div>
 
 ## 🎥 Client Testimonial
 
