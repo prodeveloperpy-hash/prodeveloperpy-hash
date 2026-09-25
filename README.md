@@ -77,6 +77,10 @@ My work spans **frontend and backend development, APIs, third-party integrations
 | **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
 | **Architecture** | `Solution Architecture` `SaaS` `Multi-Tenant Systems` `Authentication` `Third-Party Integrations` `Scalability` |
 
+## 📊 Skill Proficiency
+
+![Fiaz Hussain Professional Skill Proficiency](assets/skill-progress.svg)
+
 ## 🚀 Selected Professional Work
 
 > Selected client and professional projects. Contributions include frontend, backend, APIs, integrations, databases, UI updates, debugging, analytics, automation, and ongoing maintenance. Some source repositories are private due to client confidentiality.
