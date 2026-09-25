@@ -142,10 +142,15 @@ My work spans **frontend and backend development, APIs, third-party integrations
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="assets/projects/resume-analytics-demo.gif" alt="Resume Analytics AI Recruitment Copilot project demo" width="75%"><br>
+    <td width="50%" align="center">
+      <img src="assets/projects/resume-analytics-demo.gif" alt="Resume Analytics AI Recruitment Copilot project demo" width="100%"><br>
       <h3>🧠 Resume Analytics — AI Recruitment Copilot</h3>
       <sub><b>Resume Analysis · Job Description Workflow · AI-Powered Assistance · Recruitment Technology</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/projects/resume-job-fit-demo.gif" alt="TalentAI resume skills and job-fit analysis project demo" width="100%"><br>
+      <h3>🎯 TalentAI — Resume &amp; Job-Fit Analyzer</h3>
+      <sub><b>Skills Extraction · Job Matching · Candidate Scoring · Resume Shortlisting</b></sub>
     </td>
   </tr>
 </table>
