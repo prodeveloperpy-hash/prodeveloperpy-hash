@@ -126,6 +126,20 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 </details>
 
+## 🎥 Client Testimonial
+
+<div align="center">
+
+<img src="assets/fahad-testimonial-preview.gif" alt="Video testimonial from Fahad, a client in the United States" width="720">
+
+### Fahad — Client, United States 🇺🇸
+
+**Real client feedback · Remote collaboration · International delivery**
+
+<sub>Silent autoplay preview optimized for fast loading on GitHub.</sub>
+
+</div>
+
 ## 🔒 Selected Private / Client Engineering
 
 <details>
