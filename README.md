@@ -53,7 +53,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 </div>
 
-**Automation:** GoHighLevel (GHL) · HubSpot CRM · n8n · Zapier · Make.com · Webhooks · Python Automation · Web Automation · SMS/Viber Automation · Lead Routing
+**Automation:** Selenium · Playwright · Web Scraping · GoHighLevel (GHL) · HubSpot CRM · n8n · Zapier · Make.com · Webhooks · Python Automation · SMS/Viber Automation · Lead Routing
 
 **Data & Analytics:** BigQuery · Elasticsearch · Kibana · Looker Studio · Power BI · Grafana · ETL/ELT · Data Warehousing · KPI & Conversion Analysis
 
@@ -71,7 +71,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 | **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` `BigQuery` `Database Design` `Optimization` |
 | **AI Engineering** | `LLMs` `RAG` `AI Agents` `OpenAI API` `Claude API` `Chatbots` `Recommendations` `Intelligent Search` |
 | **Data** | `Data Engineering` `Data Analysis` `Data Science` `ETL/ELT` `Warehousing` `Elasticsearch` `Kibana` `Power BI` `Looker Studio` `Grafana` |
-| **Automation** | `Python Automation` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
+| **Automation** | `Python Automation` `Selenium` `Playwright` `Web Scraping` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
 | **Mobile** | `Flutter` `React Native` `Android` `iOS` `Kotlin` `Firebase` `Push Notifications` `Payments` `Google Maps` |
 | **Cloud & DevOps** | `AWS` `GCP` `DigitalOcean` `Cloud Run` `Docker` `Linux` `CI/CD` `Monitoring` `Performance` `Security` |
 | **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
@@ -81,87 +81,70 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 ![Fiaz Hussain Professional Skill Proficiency](assets/skill-progress.svg)
 
-## 🚀 Selected Professional Work
+## 💼 Services I Deliver
 
-> Selected client and professional projects. Contributions include frontend, backend, APIs, integrations, databases, UI updates, debugging, analytics, automation, and ongoing maintenance. Some source repositories are private due to client confidentiality.
+<table>
+  <tr>
+    <td align="center"><b>🚀 SaaS & Web Apps</b><br><sub>Scalable portals, dashboards and multi-tenant platforms</sub></td>
+    <td align="center"><b>🛒 E-Commerce</b><br><sub>Shopify, WooCommerce, catalogues, checkout and payments</sub></td>
+    <td align="center"><b>🤖 AI Solutions</b><br><sub>LLMs, RAG, agents, chatbots and intelligent search</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Automation</b><br><sub>Selenium, web scraping, n8n, Zapier and Make.com</sub></td>
+    <td align="center"><b>🎯 CRM & HubSpot</b><br><sub>GHL, HubSpot, pipelines, lead routing and follow-ups</sub></td>
+    <td align="center"><b>🔌 APIs & Integrations</b><br><sub>REST APIs, payments, Google APIs, SMS and webhooks</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Data & Analytics</b><br><sub>ETL, BigQuery, dashboards, tracking and reporting</sub></td>
+    <td align="center"><b>📱 Mobile & CMS</b><br><sub>Flutter, React Native, Kotlin and WordPress</sub></td>
+    <td align="center"><b>☁️ Cloud & DevOps</b><br><sub>AWS, GCP, DigitalOcean, Docker and CI/CD</sub></td>
+  </tr>
+</table>
 
-### [UpForge — Software, AI & Automation Engineering](https://upforge.us/)
+## 🤝 Companies & Products I Have Worked With
 
-[![UpForge screenshot](assets/projects/upforge.png)](https://upforge.us/)
+| Professional Experience | Selected Client & Product Work |
+|---|---|
+| **UpForge** · **UpSurge** · **ISHO Tech** · **Fashion Commerce** · **BisViews** | [PromptForge](https://www.mypromptforge.com/) · [Big Easy Data](https://bigeasydata.ai/) · [Tooli UK](https://www.tooli.uk/) · [Tooli-Art](https://tooli-art.com/) · [Wavehire](https://wavehire.tv/) · [Wavetek TV](https://wavetek-frontend-7homzqrazq-ew.a.run.app/) |
 
-Professional software-engineering platform delivering modern digital products for startups and companies. Work covers solution architecture, full-stack systems, backend APIs, AI/LLM integrations, automation, cloud deployment, and production optimization.
+Work across product engineering, SaaS, ecommerce, AI, automation, CRM, data, mobile applications, cloud infrastructure, integrations, optimization, and long-term maintenance.
 
-`Solution Architecture` `SaaS` `Python` `FastAPI` `Django` `Node.js` `AI Agents` `AWS` `Docker`
+## 🚀 Selected Work — Compact Gallery
 
----
+> GitHub READMEs do not run JavaScript sliders, so this compact clickable gallery keeps the profile fast, reliable, and easy to scan.
 
-### [PromptForge — Enterprise AI Governance Platform](https://www.mypromptforge.com/)
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://upforge.us/"><img src="assets/projects/upforge.png" alt="UpForge" width="100%"></a><br><b>UpForge</b><br><sub>Software, AI & automation engineering</sub></td>
+    <td width="50%" align="center"><a href="https://www.mypromptforge.com/"><img src="assets/projects/promptforge.png" alt="PromptForge" width="100%"></a><br><b>PromptForge</b><br><sub>Enterprise AI governance platform</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://bigeasydata.ai/"><img src="assets/projects/big-easy-data.png" alt="Big Easy Data" width="100%"></a><br><b>Big Easy Data</b><br><sub>Visitor intelligence & analytics</sub></td>
+    <td align="center"><a href="https://tooli-art.com/"><img src="assets/projects/tooli-art.png" alt="Tooli-Art" width="100%"></a><br><b>Tooli-Art</b><br><sub>Art supplies ecommerce experience</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://wavehire.tv/"><img src="assets/projects/wavehire.png" alt="Wavehire" width="100%"></a><br><b>Wavehire</b><br><sub>Broadcast equipment hire platform</sub></td>
+    <td align="center"><a href="https://bisviews.com/"><img src="assets/projects/bisviews.png" alt="BisViews" width="100%"></a><br><b>BisViews</b><br><sub>Business reviews, search & analytics</sub></td>
+  </tr>
+</table>
 
-[![PromptForge screenshot](assets/projects/promptforge.png)](https://www.mypromptforge.com/)
+<details>
+<summary><b>View more projects and technical details</b></summary>
+<br>
 
-Enterprise AI governance experience focused on controlled AI usage, multi-tenant isolation, governed knowledge, access control, and auditability.
+- **[Tooli UK](https://www.tooli.uk/)** — TypeScript and Python marketplace for tool and plant hire.
+- **[Wavetek TV](https://wavetek-frontend-7homzqrazq-ew.a.run.app/)** — In-progress live-production technology experience on Google Cloud Run.
+- **PromptForge** — Full-stack AI integrations, governed knowledge, multi-tenant architecture and APIs.
+- **Big Easy Data** — Data engineering, tracking, analytics, dashboards and automation.
+- **BisViews** — Python, Elasticsearch, BigQuery, search ranking, Kibana and monitoring.
 
-`Full-Stack Development` `AI Integrations` `Multi-Tenant Architecture` `APIs` `Frontend` `Backend`
-
----
-
-### [Big Easy Data — Visitor Intelligence & Analytics](https://bigeasydata.ai/)
-
-[![Big Easy Data screenshot](assets/projects/big-easy-data.png)](https://bigeasydata.ai/)
-
-Data tracking and visitor-intelligence platform with lead identification, behavioral signals, real-time analytics, audience segmentation, and marketing activation workflows.
-
-`Data Engineering` `Analytics` `Tracking` `Automation` `Dashboards` `API Integrations`
-
----
-
-### [Tooli UK — Tool & Plant Hire Marketplace](https://www.tooli.uk/)
-
-A UK-focused marketplace for comparing tool and plant hire options. Work spans a TypeScript frontend, Python backend, APIs, data workflows, and containerized services.
-
-`TypeScript` `Python` `Full-Stack` `Marketplace` `APIs` `Docker`
-
----
-
-### [Tooli-Art — Art Supplies E-Commerce](https://tooli-art.com/)
-
-[![Tooli-Art screenshot](assets/projects/tooli-art.png)](https://tooli-art.com/)
-
-E-commerce experience for professional paint pens, color collections, acrylic brushes, accessories, product discovery, cart, and checkout workflows.
-
-`Shopify` `E-Commerce` `Product Catalogue` `Frontend` `Integrations` `Optimization`
-
----
-
-### [Wavehire.tv — Professional Broadcast Equipment Hire](https://wavehire.tv/)
-
-[![Wavehire screenshot](assets/projects/wavehire.png)](https://wavehire.tv/)
-
-Responsive equipment-hire experience for professional wireless video, camera-control, and IP-data systems, including product discovery and enquiry workflows.
-
-`Frontend Development` `Responsive UI` `Product Catalogue` `E-Commerce UX` `Maintenance`
-
----
-
-### [Wavetek TV — Live Production Technology](https://wavetek-frontend-7homzqrazq-ew.a.run.app/)
-
-[![Wavetek TV screenshot](assets/projects/wavetek.png)](https://wavetek-frontend-7homzqrazq-ew.a.run.app/)
-
-An in-progress product and commerce experience for live-production video, control, and connectivity technology, deployed on Google Cloud Run.
-
-`In Progress` `Frontend` `Product Experience` `Cloud Run` `Responsive Design`
-
----
-
-### [BisViews — Business Reviews & Search Platform](https://bisviews.com/)
-
-[![BisViews screenshot](assets/projects/bisviews.png)](https://bisviews.com/)
-
-Business discovery and reviews platform supported by search, ranking, analytics, and data workflows. Professional work included intelligent search, Elasticsearch/BigQuery synchronization, and performance monitoring.
-
-`Python` `Elasticsearch` `BigQuery` `Search Ranking` `Kibana` `Analytics`
+</details>
 
 ## 🔒 Selected Private / Client Engineering
+
+<details>
+<summary><b>Explore private-project capabilities and contribution highlights</b></summary>
+<br>
 
 These projects are represented by capability and outcome because their source code is private:
 
@@ -183,6 +166,8 @@ These projects are represented by capability and outcome because their source co
 - Private repositories remain confidential; technologies and outcomes are summarized without exposing client code or protected details.
 
 > **Contribution visibility:** GitHub can show private contribution activity as anonymized green squares when “Include private contributions” is enabled in profile contribution settings. Private repository names and code remain hidden.
+
+</details>
 
 ## 📦 Open-Source & Public Repositories
 
