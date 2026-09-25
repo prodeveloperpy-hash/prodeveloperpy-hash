@@ -126,6 +126,20 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 </details>
 
+## 🧠 Featured Project Demo — Resume Analytics
+
+<div align="center">
+
+<img src="assets/projects/resume-analytics-demo.gif" alt="Resume Analytics AI Recruitment Copilot project demo" width="900">
+
+### AI Recruitment Copilot
+
+**Resume Analysis** · **Job Description Workflow** · **AI-Powered Assistance** · **Recruitment Technology**
+
+<sub>Interactive workflow preview optimized for fast loading on GitHub.</sub>
+
+</div>
+
 ## 🎥 Client Testimonial
 
 <div align="center">
