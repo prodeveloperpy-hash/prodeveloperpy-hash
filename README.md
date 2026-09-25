@@ -83,31 +83,17 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 ## 💼 Services I Deliver
 
-<table>
-  <tr>
-    <td align="center"><b>🚀 SaaS & Web Apps</b><br><sub>Scalable portals, dashboards and multi-tenant platforms</sub></td>
-    <td align="center"><b>🛒 E-Commerce</b><br><sub>Shopify, WooCommerce, catalogues, checkout and payments</sub></td>
-    <td align="center"><b>🤖 AI Solutions</b><br><sub>LLMs, RAG, agents, chatbots and intelligent search</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Automation</b><br><sub>Selenium, web scraping, n8n, Zapier and Make.com</sub></td>
-    <td align="center"><b>🎯 CRM & HubSpot</b><br><sub>GHL, HubSpot, pipelines, lead routing and follow-ups</sub></td>
-    <td align="center"><b>🔌 APIs & Integrations</b><br><sub>REST APIs, payments, Google APIs, SMS and webhooks</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📊 Data & Analytics</b><br><sub>ETL, BigQuery, dashboards, tracking and reporting</sub></td>
-    <td align="center"><b>📱 Mobile & CMS</b><br><sub>Flutter, React Native, Kotlin and WordPress</sub></td>
-    <td align="center"><b>☁️ Cloud & DevOps</b><br><sub>AWS, GCP, DigitalOcean, Docker and CI/CD</sub></td>
-  </tr>
-</table>
+![Fiaz Hussain — Services by Product Type](assets/service-types.svg)
 
 ## 🤝 Companies & Products I Have Worked With
 
-| Professional Experience | Selected Client & Product Work |
-|---|---|
-| **UpForge** · **UpSurge** · **ISHO Tech** · **Fashion Commerce** · **BisViews** | [PromptForge](https://www.mypromptforge.com/) · [Big Easy Data](https://bigeasydata.ai/) · [Tooli UK](https://www.tooli.uk/) · [Tooli-Art](https://tooli-art.com/) · [Wavehire](https://wavehire.tv/) · [Wavetek TV](https://wavetek-frontend-7homzqrazq-ew.a.run.app/) |
+![Companies and products Fiaz Hussain has worked with](assets/companies-showcase.svg)
 
-Work across product engineering, SaaS, ecommerce, AI, automation, CRM, data, mobile applications, cloud infrastructure, integrations, optimization, and long-term maintenance.
+<div align="center">
+
+[**PromptForge**](https://www.mypromptforge.com/) · [**Big Easy Data**](https://bigeasydata.ai/) · [**Tooli UK**](https://www.tooli.uk/) · [**Tooli-Art**](https://tooli-art.com/) · [**Wavehire**](https://wavehire.tv/) · [**Wavetek TV**](https://wavetek-frontend-7homzqrazq-ew.a.run.app/)
+
+</div>
 
 ## 🚀 Selected Work — Compact Gallery
 
