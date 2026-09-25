@@ -1,9 +1,11 @@
 <div align="center">
 
-![Fiaz Hussain — Full Stack Developer & Automation Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1d4ed8,100:06b6d4&height=235&section=header&text=Fiaz%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Automation%20Engineer%20%E2%80%A2%20Data%20%26%20AI&descAlignY=58&descSize=19&animation=fadeIn)
+![Fiaz Hussain — Solution Architect, Full-Stack, Automation, Data and AI](assets/fiaz-hussain-banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2563EB?style=for-the-badge&logo=github)](#selected-professional-work)
-[![Email](https://img.shields.io/badge/Email-infoupforge%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoupforge@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mail.fiazhussain.dev%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.fiazhussain.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0348%203476760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923483476760)
+[![Phone](https://img.shields.io/badge/Call-0348%203476760-2563EB?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+923483476760)
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prodeveloperpy-hash&label=Profile%20Views&color=2563eb&style=flat-square)](https://github.com/prodeveloperpy-hash)
@@ -13,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Fiaz Hussain**, a Full-Stack Developer and Automation Engineer with **6+ years of experience** across software engineering, integrations, data, cloud, and AI-enabled applications. I build responsive web and mobile products, scalable APIs, CRM systems, analytics workflows, and business automations—from initial requirements to deployment and ongoing maintenance.
+I'm **Fiaz Hussain**, a Senior Solution Architect, Full-Stack Developer, and Automation Engineer with **6+ years of experience** across software engineering, integrations, data, cloud, and AI-enabled applications. I design secure, production-ready architectures and build responsive web/mobile products, scalable APIs, CRM systems, analytics workflows, and business automations—from requirements and system design through deployment, optimization, and ongoing maintenance.
 
 My work spans **frontend and backend development, APIs, third-party integrations, databases, bug fixing, UI improvements, performance optimization, no-code automation, data engineering, analytics, and AI-powered workflows**.
 
@@ -27,8 +29,8 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 | Full-Stack Development | Automation & Integrations | Data & AI | Mobile & CMS |
 |---|---|---|---|
-| React, TypeScript, Python, Django, FastAPI, Flask, Node.js | GHL, n8n, Zapier, Make.com, webhooks, CRM workflows | SQL, BigQuery, Elasticsearch, ETL/ELT, BI dashboards, AI APIs | Flutter, React Native, Firebase, WordPress, WooCommerce |
-| Responsive UI, REST APIs, multi-tenant systems | Freshdesk, Pipedrive, email, calendars, lead routing | Data analytics, data engineering, intelligent ranking, recommendations | Android/iOS apps, Elementor, Gutenberg, custom websites |
+| React, TypeScript, Python, Django, DRF, FastAPI, Flask, Node.js | GHL, HubSpot, n8n, Zapier, Make.com, webhooks | SQL, BigQuery, Elasticsearch, ETL/ELT, BI, AI APIs | Flutter, React Native, Kotlin, Firebase, WordPress, Shopify |
+| SaaS, REST APIs, microservices, multi-tenant systems | CRM, Google APIs, Calendar, SMS/Viber, lead routing | Data analysis, engineering, science, RAG, AI agents | Android/iOS, WooCommerce, ecommerce, custom websites |
 
 ## 🛠️ Technical Toolbox
 
@@ -44,21 +46,31 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 ### Cloud, DevOps & Tools
 
-[![Tools](https://skillicons.dev/icons?i=gcp,docker,git,github,linux,postman,figma,vscode,wordpress)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,postman,figma,vscode,wordpress)](https://skillicons.dev)
 
 </div>
 
-**Automation:** GoHighLevel (GHL) · n8n · Zapier · Make.com · Webhooks · Workflow Orchestration · CRM Automation · Lead Routing
+**Automation:** GoHighLevel (GHL) · HubSpot CRM · n8n · Zapier · Make.com · Webhooks · Python Automation · Web Automation · SMS/Viber Automation · Lead Routing
 
 **Data & Analytics:** BigQuery · Elasticsearch · Kibana · Looker Studio · Power BI · Grafana · ETL/ELT · Data Warehousing · KPI & Conversion Analysis
 
-**AI & Tracking:** OpenAI API · AI Chatbots · Recommendation Workflows · Intelligent Search · Google Tag Manager · LinkedIn Insight Tag · Meta Pixel · Conversion Tracking
+**AI & Tracking:** LLMs · RAG · AI Agents · OpenAI API · Claude API · AI Chatbots · Recommendation Workflows · Intelligent Search · Google Tag Manager · LinkedIn Insight Tag · Meta Pixel
 
-**Engineering:** REST APIs · Multi-Tenant Architecture · SQL · Cloud Run · DataProc · CI/CD · Performance Monitoring · GDPR/PDPA/SOC 2-Aligned Practices
+**Engineering:** Solution Architecture · REST APIs · Microservices · Multi-Tenant SaaS · PostgreSQL · MySQL · MongoDB · Supabase · AWS · GCP · DigitalOcean VPS · Cloud Run · DataProc · CI/CD
 
 ## 🚀 Selected Professional Work
 
 > Selected client and professional projects. Contributions include frontend, backend, APIs, integrations, databases, UI updates, debugging, analytics, automation, and ongoing maintenance. Some source repositories are private due to client confidentiality.
+
+### [UpForge — Software, AI & Automation Engineering](https://upforge.us/)
+
+[![UpForge screenshot](assets/projects/upforge.png)](https://upforge.us/)
+
+Professional software-engineering platform delivering modern digital products for startups and companies. Work covers solution architecture, full-stack systems, backend APIs, AI/LLM integrations, automation, cloud deployment, and production optimization.
+
+`Solution Architecture` `SaaS` `Python` `FastAPI` `Django` `Node.js` `AI Agents` `AWS` `Docker`
+
+---
 
 ### [PromptForge — Enterprise AI Governance Platform](https://www.mypromptforge.com/)
 
@@ -85,6 +97,16 @@ Data tracking and visitor-intelligence platform with lead identification, behavi
 A UK-focused marketplace for comparing tool and plant hire options. Work spans a TypeScript frontend, Python backend, APIs, data workflows, and containerized services.
 
 `TypeScript` `Python` `Full-Stack` `Marketplace` `APIs` `Docker`
+
+---
+
+### [Tooli-Art — Art Supplies E-Commerce](https://tooli-art.com/)
+
+[![Tooli-Art screenshot](assets/projects/tooli-art.png)](https://tooli-art.com/)
+
+E-commerce experience for professional paint pens, color collections, acrylic brushes, accessories, product discovery, cart, and checkout workflows.
+
+`Shopify` `E-Commerce` `Product Catalogue` `Frontend` `Integrations` `Optimization`
 
 ---
 
@@ -144,14 +166,47 @@ These projects are represented by capability and outcome because their source co
 
 ## 💼 Professional Experience
 
-- **Senior Full-Stack & Automation Engineer — ISHO Tech**<br>
-  Scalable CRM and multi-tenant applications, Python APIs, React interfaces, automation workflows, integrations, AI chatbots, and conversion tracking.
+### Senior Solution Architect — UpForge
 
-- **Full-Stack & AI Automation Engineer — Fashion Commerce**<br>
-  AI-enabled ecommerce features, customer journeys, B2B marketing workflows, dashboards, integrations, and campaign automation.
+**Full-time · July 2026 – Present**
 
-- **Search Platform & Data Engineer — BisViews**<br>
-  Intelligent ranking, search functionality, Elasticsearch/BigQuery synchronization, analytics, warehousing, and Kibana monitoring.
+- Design scalable and secure architectures for SaaS, AI, automation, and enterprise applications.
+- Architect backend systems using Python, FastAPI, Django, Node.js, PostgreSQL, and Supabase.
+- Design REST APIs, microservices, database architecture, authentication, and third-party integrations.
+- Build cloud solutions using AWS, Docker, and CI/CD with a focus on security, reliability, and scale.
+- Design AI-powered systems using LLMs, RAG, AI agents, OpenAI, and Claude APIs.
+- Integrate CRMs, payment systems, communication APIs, business platforms, and automation tools.
+- Lead technical decisions from requirements analysis and system design through delivery and optimization.
+
+**Key achievement:** Designed and delivered end-to-end architectures for complex AI, SaaS, automation, and API-integrated platforms, transforming business requirements into scalable production systems.
+
+### Backend Engineer — UpSurge
+
+**Full-time · June 2024 – July 2026**
+
+- Developed scalable backend systems using Python, Django, FastAPI, Node.js, and REST APIs.
+- Designed and optimized PostgreSQL, MySQL, MongoDB, and Supabase databases.
+- Built secure APIs, authentication, third-party integrations, and automation workflows.
+- Worked with AWS, Docker, CI/CD, and cloud deployments.
+- Integrated OpenAI, Claude, RAG, and AI agents into backend applications.
+- Developed SaaS platforms, data-processing systems, web-scraping solutions, and business automation tools.
+
+**Key achievement:** Delivered production-ready backend and AI automation solutions combining APIs, databases, cloud infrastructure, and AI services for scalable business applications.
+
+### Additional Selected Experience
+
+- **ISHO Tech** — CRM and multi-tenant applications, Python APIs, React interfaces, automation, integrations, chatbots, and conversion tracking.
+- **Fashion Commerce** — AI-enabled ecommerce, customer journeys, B2B marketing workflows, dashboards, and campaign automation.
+- **BisViews** — Intelligent search, Elasticsearch/BigQuery synchronization, analytics, warehousing, ranking, and Kibana monitoring.
+
+## 🎓 Education & Certification
+
+- **M.Sc. Computer Science** — Government College University Lahore (GCUL), Pakistan · Graduated 2021
+- **Microsoft Data Scientist Certification** · 2022
+
+## ☁️ Cloud & Deployment Capability
+
+Production deployment experience across **AWS, Google Cloud Platform, Cloud Run, DigitalOcean VPS, Docker, Linux, managed databases, CI/CD, monitoring, and scalable application hosting**. DigitalOcean VPS supports common production workloads such as websites, ecommerce, SaaS, databases, microservices, and AI/ML applications. [Explore DigitalOcean VPS](https://www.digitalocean.com/solutions/vps-hosting).
 
 ## 📈 GitHub Activity
 
@@ -170,11 +225,15 @@ Need a custom web or mobile application, backend API, CRM integration, workflow 
 
 <div align="center">
 
-[![Email Fiaz](https://img.shields.io/badge/Email%20Me-infoupforge%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoupforge@gmail.com)
+[![Email Fiaz](https://img.shields.io/badge/Email-mail.fiazhussain.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.fiazhussain.dev@gmail.com)
+[![WhatsApp Fiaz](https://img.shields.io/badge/WhatsApp-0348%203476760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923483476760)
+[![Call Fiaz](https://img.shields.io/badge/Call-0348%203476760-06B6D4?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+923483476760)
 [![GitHub](https://img.shields.io/badge/GitHub-prodeveloperpy--hash-181717?style=for-the-badge&logo=github)](https://github.com/prodeveloperpy-hash)
 
 ### Open to freelance work, product collaboration, integrations, and long-term engineering support.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=120&section=footer)
+---
+
+**Architecture • Engineering • Automation • Data • AI**
 
 </div>
