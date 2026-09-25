@@ -27,10 +27,13 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 ## 🧭 What I Do
 
-| Full-Stack Development | Automation & Integrations | Data & AI | Mobile & CMS |
-|---|---|---|---|
-| React, TypeScript, Python, Django, DRF, FastAPI, Flask, Node.js | GHL, HubSpot, n8n, Zapier, Make.com, webhooks | SQL, BigQuery, Elasticsearch, ETL/ELT, BI, AI APIs | Flutter, React Native, Kotlin, Firebase, WordPress, Shopify |
-| SaaS, REST APIs, microservices, multi-tenant systems | CRM, Google APIs, Calendar, SMS/Viber, lead routing | Data analysis, engineering, science, RAG, AI agents | Android/iOS, WooCommerce, ecommerce, custom websites |
+![Fiaz Hussain — Services and Capabilities](assets/services-ui.svg)
+
+<div align="center">
+
+**Product strategy → Architecture → Development → Integration → Deployment → Optimization**
+
+</div>
 
 ## 🛠️ Technical Toolbox
 
