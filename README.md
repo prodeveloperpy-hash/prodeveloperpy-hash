@@ -41,11 +41,11 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 ### Languages & Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=python,php,js,ts,html,css,react,angular,nodejs)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=python,php,js,ts,html,css,react,nextjs,angular,tailwind,nodejs)](https://skillicons.dev)
 
 ### Backend, Mobile & Databases
 
-[![Backend Skills](https://skillicons.dev/icons?i=django,fastapi,flask,express,flutter,dart,firebase,mysql,postgres)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=django,fastapi,flask,express,flutter,dart,kotlin,firebase,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tools
 
@@ -60,6 +60,22 @@ My work spans **frontend and backend development, APIs, third-party integrations
 **AI & Tracking:** LLMs · RAG · AI Agents · OpenAI API · Claude API · AI Chatbots · Recommendation Workflows · Intelligent Search · Google Tag Manager · LinkedIn Insight Tag · Meta Pixel
 
 **Engineering:** Solution Architecture · REST APIs · Microservices · Multi-Tenant SaaS · PostgreSQL · MySQL · MongoDB · Supabase · AWS · GCP · DigitalOcean VPS · Cloud Run · DataProc · CI/CD
+
+## 🧩 Complete Technology Stack
+
+| Area | Technologies & Capabilities |
+|---|---|
+| **Languages** | `Python` `JavaScript` `TypeScript` `PHP` `SQL` `Dart` `Kotlin` `HTML5` `CSS3` |
+| **Frontend** | `React.js` `Next.js` `AngularJS` `Vite` `Tailwind CSS` `Responsive UI` `Accessibility` `Dashboards` |
+| **Backend** | `Django` `Django REST Framework` `FastAPI` `Flask` `Node.js` `Express.js` `REST APIs` `Microservices` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` `BigQuery` `Database Design` `Optimization` |
+| **AI Engineering** | `LLMs` `RAG` `AI Agents` `OpenAI API` `Claude API` `Chatbots` `Recommendations` `Intelligent Search` |
+| **Data** | `Data Engineering` `Data Analysis` `Data Science` `ETL/ELT` `Warehousing` `Elasticsearch` `Kibana` `Power BI` `Looker Studio` `Grafana` |
+| **Automation** | `Python Automation` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
+| **Mobile** | `Flutter` `React Native` `Android` `iOS` `Kotlin` `Firebase` `Push Notifications` `Payments` `Google Maps` |
+| **Cloud & DevOps** | `AWS` `GCP` `DigitalOcean` `Cloud Run` `Docker` `Linux` `CI/CD` `Monitoring` `Performance` `Security` |
+| **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
+| **Architecture** | `Solution Architecture` `SaaS` `Multi-Tenant Systems` `Authentication` `Third-Party Integrations` `Scalability` |
 
 ## 🚀 Selected Professional Work
 
@@ -152,6 +168,17 @@ These projects are represented by capability and outcome because their source co
 - **Marketing Data & Tracking** — Website/pixel tracking, LinkedIn Ads workflows, Meta Pixel, Google Tag Manager, conversion events, audience data, and reporting dashboards.
 - **Mobile Applications** — Flutter and React Native apps with Firebase, authentication, REST APIs, push notifications, payments, Google Maps, and release support.
 - **WordPress & WooCommerce** — Elementor/Gutenberg builds, theme and plugin customization, ecommerce flows, SEO readiness, performance, migrations, backups, and maintenance.
+
+### Private Contribution Highlights
+
+`Production SaaS Platforms` · `Enterprise APIs` · `AI Agents & RAG` · `CRM Systems` · `Automation Workflows` · `Data Pipelines` · `Search & Ranking` · `Mobile Apps` · `E-Commerce` · `Cloud Infrastructure`
+
+- End-to-end architecture, backend, frontend, database, integration, deployment, and optimization contributions.
+- Secure authentication, payments, communication APIs, CRM synchronization, reporting, and operational tooling.
+- Production maintenance including debugging, performance improvements, monitoring, security, and feature delivery.
+- Private repositories remain confidential; technologies and outcomes are summarized without exposing client code or protected details.
+
+> **Contribution visibility:** GitHub can show private contribution activity as anonymized green squares when “Include private contributions” is enabled in profile contribution settings. Private repository names and code remain hidden.
 
 ## 📦 Open-Source & Public Repositories
 
