@@ -51,6 +51,36 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 [![Tools](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,postman,figma,vscode,wordpress)](https://skillicons.dev)
 
+### No-Code Automation, CRM & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/GoHighLevel-2535A5?style=for-the-badge&amp;logo=highlevel&amp;logoColor=white" alt="GoHighLevel">
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&amp;logo=make&amp;logoColor=white" alt="Make.com">
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" alt="Zapier">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="HubSpot">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&amp;logo=airtable&amp;logoColor=white" alt="Airtable">
+  <img src="https://img.shields.io/badge/Pipedrive-017737?style=for-the-badge&amp;logo=pipedrive&amp;logoColor=white" alt="Pipedrive">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&amp;logo=twilio&amp;logoColor=white" alt="Twilio">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&amp;logo=googlesheets&amp;logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&amp;logo=googlecalendar&amp;logoColor=white" alt="Google Calendar">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&amp;logo=clickup&amp;logoColor=white" alt="ClickUp">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/APIs_%26_Webhooks-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="APIs and Webhooks">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/Many_More-0EA5E9?style=for-the-badge&amp;logo=addthis&amp;logoColor=white" alt="Many more automation tools">
+</p>
+
 </div>
 
 **Automation:** Selenium · Playwright · Web Scraping · GoHighLevel (GHL) · HubSpot CRM · n8n · Zapier · Make.com · Webhooks · Python Automation · SMS/Viber Automation · Lead Routing
@@ -71,7 +101,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 | **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` `BigQuery` `Database Design` `Optimization` |
 | **AI Engineering** | `LLMs` `RAG` `AI Agents` `OpenAI API` `Claude API` `Chatbots` `Recommendations` `Intelligent Search` |
 | **Data** | `Data Engineering` `Data Analysis` `Data Science` `ETL/ELT` `Warehousing` `Elasticsearch` `Kibana` `Power BI` `Looker Studio` `Grafana` |
-| **Automation** | `Python Automation` `Selenium` `Playwright` `Web Scraping` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
+| **Automation** | `Python Automation` `Selenium` `Playwright` `Web Scraping` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Airtable` `Pipedrive` `Salesforce` `Twilio` `Slack` `Notion` `Trello` `ClickUp` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
 | **Mobile** | `Flutter` `React Native` `Android` `iOS` `Kotlin` `Firebase` `Push Notifications` `Payments` `Google Maps` |
 | **Cloud & DevOps** | `AWS` `GCP` `DigitalOcean` `Cloud Run` `Docker` `Linux` `CI/CD` `Monitoring` `Performance` `Security` |
 | **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
