@@ -64,8 +64,18 @@ My work spans **frontend and backend development, APIs, third-party integrations
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&amp;logo=airtable&amp;logoColor=white" alt="Airtable">
   <img src="https://img.shields.io/badge/Pipedrive-017737?style=for-the-badge&amp;logo=pipedrive&amp;logoColor=white" alt="Pipedrive">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&amp;logo=zoho&amp;logoColor=white" alt="Zoho CRM">
+  <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=for-the-badge&amp;logo=freshworks&amp;logoColor=white" alt="Freshdesk">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&amp;logo=twilio&amp;logoColor=white" alt="Twilio">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ActiveCampaign-356AE6?style=for-the-badge&amp;logo=activecampaign&amp;logoColor=white" alt="ActiveCampaign">
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&amp;logo=mailchimp&amp;logoColor=black" alt="Mailchimp">
+  <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&amp;logo=brevo&amp;logoColor=white" alt="Brevo">
+  <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&amp;logo=calendly&amp;logoColor=white" alt="Calendly">
+  <img src="https://img.shields.io/badge/Typeform-262627?style=for-the-badge&amp;logo=typeform&amp;logoColor=white" alt="Typeform">
+  <img src="https://img.shields.io/badge/Jotform-FF6100?style=for-the-badge&amp;logo=jotform&amp;logoColor=white" alt="Jotform">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&amp;logo=googlesheets&amp;logoColor=white" alt="Google Sheets">
@@ -73,6 +83,9 @@ My work spans **frontend and backend development, APIs, third-party integrations
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&amp;logo=clickup&amp;logoColor=white" alt="ClickUp">
+  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&amp;logo=mondaydotcom&amp;logoColor=white" alt="Monday.com">
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&amp;logo=asana&amp;logoColor=white" alt="Asana">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira">
 </p>
 <p>
   <img src="https://img.shields.io/badge/APIs_%26_Webhooks-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="APIs and Webhooks">
@@ -101,7 +114,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 | **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` `BigQuery` `Database Design` `Optimization` |
 | **AI Engineering** | `LLMs` `RAG` `AI Agents` `OpenAI API` `Claude API` `Chatbots` `Recommendations` `Intelligent Search` |
 | **Data** | `Data Engineering` `Data Analysis` `Data Science` `ETL/ELT` `Warehousing` `Elasticsearch` `Kibana` `Power BI` `Looker Studio` `Grafana` |
-| **Automation** | `Python Automation` `Selenium` `Playwright` `Web Scraping` `n8n` `Zapier` `Make.com` `GHL` `HubSpot` `Airtable` `Pipedrive` `Salesforce` `Twilio` `Slack` `Notion` `Trello` `ClickUp` `Webhooks` `Google APIs` `Calendar` `SMS/Viber` |
+| **Automation & CRM** | `GHL` `HubSpot CRM` `Pipedrive` `Salesforce` `Zoho CRM` `Freshdesk` `ActiveCampaign` `Mailchimp` `Brevo` `n8n` `Zapier` `Make.com` `Airtable` `Twilio` `Slack` `Calendly` `Typeform` `Jotform` `Monday.com` `Asana` `Jira` `Notion` `Trello` `ClickUp` `Webhooks` `Google APIs` `Python Automation` `Selenium` `Playwright` `Web Scraping` |
 | **Mobile** | `Flutter` `React Native` `Android` `iOS` `Kotlin` `Firebase` `Push Notifications` `Payments` `Google Maps` |
 | **Cloud & DevOps** | `AWS` `GCP` `DigitalOcean` `Cloud Run` `Docker` `Linux` `CI/CD` `Monitoring` `Performance` `Security` |
 | **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
