@@ -2,14 +2,16 @@
 
 ![Fiaz Hussain — Solution Architect, Full-Stack, Automation, Data and AI](assets/fiaz-hussain-banner.png)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2563EB?style=for-the-badge&logo=github)](#selected-professional-work)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-2563EB?style=for-the-badge&logo=github)](#-selected-work--compact-gallery)
 [![Email](https://img.shields.io/badge/Email-mail.fiazhussain.dev%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.fiazhussain.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0348%203476760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923483476760)
 [![Phone](https://img.shields.io/badge/Call-0348%203476760-2563EB?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+923483476760)
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=prodeveloperpy-hash&label=Profile%20Views&color=2563eb&style=flat-square)](https://github.com/prodeveloperpy-hash)
-[![Followers](https://img.shields.io/github/followers/prodeveloperpy-hash?label=Followers&style=flat-square&color=06b6d4)](https://github.com/prodeveloperpy-hash?tab=followers)
+[![Live Profile Views](https://api.visitorbadge.io/api/visitors?path=prodeveloperpy-hash.profile&label=PROFILE%20VIEWS&labelColor=%23111827&countColor=%232563EB)](https://github.com/prodeveloperpy-hash)
+[![GitHub Followers](https://img.shields.io/github/followers/prodeveloperpy-hash?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=111827&color=06B6D4)](https://github.com/prodeveloperpy-hash?tab=followers)
+[![Follow on GitHub](https://img.shields.io/badge/FOLLOW-@prodeveloperpy--hash-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prodeveloperpy-hash)
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prodeveloperpy-hash?tab=repositories)
 
 </div>
 
