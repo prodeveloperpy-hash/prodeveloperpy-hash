@@ -120,6 +120,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 | **Mobile** | `Flutter` `React Native` `Android` `iOS` `Kotlin` `Firebase` `Push Notifications` `Payments` `Google Maps` |
 | **Cloud & DevOps** | `AWS` `GCP` `DigitalOcean` `Cloud Run` `Docker` `Linux` `CI/CD` `Monitoring` `Performance` `Security` |
 | **CMS & Commerce** | `WordPress` `WooCommerce` `Shopify` `Elementor` `Gutenberg` `E-Commerce` `Payments` `SEO` |
+| **Healthcare Tech** | `Hospital Management` `EHR/EMR` `FHIR` `HL7` `DICOM/PACS` `Telemedicine` `WebRTC` `Patient Portals` `RBAC/MFA` `Audit Trails` `Healthcare APIs` |
 | **Architecture** | `Solution Architecture` `SaaS` `Multi-Tenant Systems` `Authentication` `Third-Party Integrations` `Scalability` |
 
 ## 📊 Skill Proficiency
@@ -129,6 +130,18 @@ My work spans **frontend and backend development, APIs, third-party integrations
 ## 💼 Services I Deliver
 
 ![Fiaz Hussain — Services by Product Type](assets/service-types.svg)
+
+## 🏥 Healthcare & Medical Software Solutions
+
+![Advanced hospital management and telemedicine software solution concepts](assets/healthcare-solutions.svg)
+
+<div align="center">
+
+`Hospital Management` · `EHR / EMR` · `Patient Portals` · `Telemedicine` · `Appointments` · `Pharmacy & Labs` · `Billing` · `FHIR / HL7` · `DICOM / PACS` · `AI-Assisted Workflows`
+
+</div>
+
+> **Healthcare solution capability:** These are architecture and product concepts available for customization—not claims of deployed clinical systems. AI features are designed as clinician-reviewed decision support, not autonomous diagnosis.
 
 ## 🤝 Companies & Products I Have Worked With
 
