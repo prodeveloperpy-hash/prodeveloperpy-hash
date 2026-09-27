@@ -149,7 +149,7 @@ My work spans **frontend and backend development, APIs, third-party integrations
 
 <div align="center">
 
-[**PromptForge**](https://www.mypromptforge.com/) · [**Big Easy Data**](https://bigeasydata.ai/) · [**Tooli UK**](https://www.tooli.uk/) · [**Tooli-Art**](https://tooli-art.com/) · [**Wavehire**](https://wavehire.tv/) · [**Wavetek TV**](https://wavetek-frontend-7homzqrazq-ew.a.run.app/) · [**WinkBooth**](https://winkbooth.co.uk/)
+[**PromptForge**](https://www.mypromptforge.com/) · [**Tooli UK**](https://www.tooli.uk/) · [**Tooli-Art**](https://tooli-art.com/) · [**Wavehire**](https://wavehire.tv/) · [**Wavetek TV**](https://wavetek-frontend-7homzqrazq-ew.a.run.app/) · [**WinkBooth**](https://winkbooth.co.uk/)
 
 </div>
 
@@ -163,15 +163,12 @@ My work spans **frontend and backend development, APIs, third-party integrations
     <td width="50%" align="center"><a href="https://www.mypromptforge.com/"><img src="assets/projects/promptforge.png" alt="PromptForge" width="100%"></a><br><b>PromptForge</b><br><sub>Enterprise AI governance platform</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://bigeasydata.ai/"><img src="assets/projects/big-easy-data.png" alt="Big Easy Data" width="100%"></a><br><b>Big Easy Data</b><br><sub>Visitor intelligence & analytics</sub></td>
+    <td align="center"><a href="https://winkbooth.co.uk/"><img src="assets/projects/winkbooth.jpg" alt="WinkBooth — premium photo booth hire for UK events" width="100%"></a><br><b>WinkBooth</b><br><sub>Premium photo booth hire, 360 booths &amp; event experiences</sub></td>
     <td align="center"><a href="https://tooli-art.com/"><img src="assets/projects/tooli-art.png" alt="Tooli-Art" width="100%"></a><br><b>Tooli-Art</b><br><sub>Art supplies ecommerce experience</sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://wavehire.tv/"><img src="assets/projects/wavehire.png" alt="Wavehire" width="100%"></a><br><b>Wavehire</b><br><sub>Broadcast equipment hire platform</sub></td>
     <td align="center"><a href="https://bisviews.com/"><img src="assets/projects/bisviews.png" alt="BisViews" width="100%"></a><br><b>BisViews</b><br><sub>Business reviews, search & analytics</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="https://winkbooth.co.uk/"><img src="assets/projects/winkbooth.jpg" alt="WinkBooth — premium photo booth hire for UK events" width="50%"></a><br><b>WinkBooth</b><br><sub>Premium photo booth hire, 360 booths, selfie pods &amp; event experiences</sub></td>
   </tr>
 </table>
 
@@ -183,7 +180,6 @@ My work spans **frontend and backend development, APIs, third-party integrations
 - **[Wavetek TV](https://wavetek-frontend-7homzqrazq-ew.a.run.app/)** — In-progress live-production technology experience on Google Cloud Run.
 - **[WinkBooth](https://winkbooth.co.uk/)** — Premium UK event website for photo-booth hire, 360 booths, selfie pods and event treats.
 - **PromptForge** — Full-stack AI integrations, governed knowledge, multi-tenant architecture and APIs.
-- **Big Easy Data** — Data engineering, tracking, analytics, dashboards and automation.
 - **BisViews** — Python, Elasticsearch, BigQuery, search ranking, Kibana and monitoring.
 
 </details>
