@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Services">
+  <rect width="1200" height="220" fill="#0b1220"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="24" y="28" width="220" height="164" rx="22" fill="#123a8f"/>
+      <text x="134" y="78" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">FULL-STACK</text>
+      <text x="134" y="100" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">DEVELOPMENT</text>
+      <text x="134" y="136" fill="#d6e4ff" font-size="13" text-anchor="middle">Web and mobile</text>
+      <text x="134" y="156" fill="#d6e4ff" font-size="13" text-anchor="middle">products</text>
+    </g>
+    <g>
+      <rect x="260" y="28" width="220" height="164" rx="22" fill="#5b2fd6"/>
+      <text x="370" y="78" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">DATA SCIENCE</text>
+      <text x="370" y="100" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">&amp; ANALYTICS</text>
+      <text x="370" y="136" fill="#efe7ff" font-size="13" text-anchor="middle">Decisions from</text>
+      <text x="370" y="156" fill="#efe7ff" font-size="13" text-anchor="middle">real data</text>
+    </g>
+    <g>
+      <rect x="496" y="28" width="220" height="164" rx="22" fill="#0e7490"/>
+      <text x="606" y="78" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">DATA</text>
+      <text x="606" y="100" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">ENGINEERING</text>
+      <text x="606" y="136" fill="#d5f6ff" font-size="13" text-anchor="middle">Pipelines and</text>
+      <text x="606" y="156" fill="#d5f6ff" font-size="13" text-anchor="middle">warehouses</text>
+    </g>
+    <g>
+      <rect x="732" y="28" width="220" height="164" rx="22" fill="#1d4ed8"/>
+      <text x="842" y="78" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">AI &amp;</text>
+      <text x="842" y="100" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">AUTOMATION</text>
+      <text x="842" y="136" fill="#dbe7ff" font-size="13" text-anchor="middle">Agents, search,</text>
+      <text x="842" y="156" fill="#dbe7ff" font-size="13" text-anchor="middle">and workflows</text>
+    </g>
+    <g>
+      <rect x="968" y="28" width="208" height="164" rx="22" fill="#c2410c"/>
+      <text x="1072" y="78" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">NO-CODE</text>
+      <text x="1072" y="100" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">AUTOMATION</text>
+      <text x="1072" y="136" fill="#ffedd5" font-size="13" text-anchor="middle">GHL, Make,</text>
+      <text x="1072" y="156" fill="#ffedd5" font-size="13" text-anchor="middle">Zapier, n8n</text>
+    </g>
+  </g>
+</svg>
