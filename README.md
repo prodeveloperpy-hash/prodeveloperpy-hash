@@ -1,48 +1,69 @@
-# Fiaz Hussain
+<p align="center">
+  <img src="assets/fiaz-hussain-banner.png" alt="Fiaz Hussain, solution architect and full-stack developer" width="100%">
+</p>
 
-**Senior Solution Architect** · web platforms, APIs, automation, and AI
+<p align="center">
+  <img src="assets/ui-steps.svg" alt="Build, automate, analyze, innovate, scale" width="100%">
+</p>
 
-I help clients turn a business problem into software that is ready to use: the product, the integrations, and the deployment. I work remotely from Islamabad.
+<p align="center">
+  <a href="mailto:mail.fiazhussain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Fiaz%20Hussain-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/923483476760"><img src="https://img.shields.io/badge/WhatsApp-0348%203476760-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://upforge.us"><img src="https://img.shields.io/badge/Website-upforge.us-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UpForge"></a>
+</p>
 
-[Email](mailto:mail.fiazhussain.dev@gmail.com) · [WhatsApp](https://wa.me/923483476760) · [UpForge](https://upforge.us) · [Call](tel:+923483476760)
-
-## What clients hire me for
-
-- Web platforms and responsive product interfaces
-- Backend APIs, databases, and multi-tenant systems
-- CRM and workflow automation with GoHighLevel, Make, Zapier, and n8n
-- Analytics, search, and AI features inside existing products
+<p align="center">
+  <img src="assets/ui-services.svg" alt="Full-stack development, data science, data engineering, AI and automation, no-code automation" width="100%">
+</p>
 
 ## Selected work
 
-| Project | What it is |
-| --- | --- |
-| [Pakufi website](https://github.com/prodeveloperpy-hash/pakufi-website) | Agency website in Next.js |
-| [Pakufi CMS](https://github.com/prodeveloperpy-hash/pakufi-cms) | Headless CMS for that website |
-| [Butik Music](https://github.com/prodeveloperpy-hash/pakufi-butikmusic) | Artist booking space |
-| [Albania Mindful Scene](https://github.com/prodeveloperpy-hash/pakufi-albania-mindful-scene) | Public listing of mindful events |
-| [Pakufi analytics](https://github.com/prodeveloperpy-hash/pakufi-analytics) | Self-hosted website analytics |
-| [Daftar](https://github.com/prodeveloperpy-hash/daftar-pdf) | Local PDF editor for text and watermarks |
-| [QuizOnline](https://github.com/prodeveloperpy-hash/quizonline) | Quiz platform for students, teachers, and admins |
-| [CardWise](https://github.com/prodeveloperpy-hash/Altiora-Digital-Labs) | Credit-card discovery and recommendations |
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/prodeveloperpy-hash/pakufi-website"><b>Pakufi website</b></a><br>
+      <sub>Next.js agency site</sub>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/prodeveloperpy-hash/pakufi-cms"><b>Pakufi CMS</b></a><br>
+      <sub>Headless content system</sub>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/prodeveloperpy-hash/pakufi-butikmusic"><b>Butik Music</b></a><br>
+      <sub>Artist booking space</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/prodeveloperpy-hash/pakufi-analytics"><b>Pakufi analytics</b></a><br>
+      <sub>Self-hosted site analytics</sub>
+    </td>
+    <td>
+      <a href="https://github.com/prodeveloperpy-hash/daftar-pdf"><b>Daftar</b></a><br>
+      <sub>Local PDF editor</sub>
+    </td>
+    <td>
+      <a href="https://github.com/prodeveloperpy-hash/quizonline"><b>QuizOnline</b></a><br>
+      <sub>Student and teacher quizzes</sub>
+    </td>
+  </tr>
+</table>
 
-More public code is on the [repositories page](https://github.com/prodeveloperpy-hash?tab=repositories).
-
-## How I work
-
-Requirements, architecture, build, integration, then deployment and support. The usual stack is Python, TypeScript, React, Next.js, Node, PostgreSQL, and cloud hosting on AWS, Google Cloud, or a VPS.
+<p align="center"><sub><a href="https://github.com/prodeveloperpy-hash?tab=repositories">All public repositories</a></sub></p>
 
 ## Experience
 
 **Senior Solution Architect, UpForge** · July 2026 – present  
-Architecture for SaaS, automation, and AI products. APIs, databases, and third-party integrations through to production.
+SaaS, automation, and AI products, from the architecture through deployment.
 
 **Backend Engineer, UpSurge** · June 2024 – July 2026  
-Python, Django, FastAPI, and Node services, plus data jobs and AI features in production apps.
+Python, Django, FastAPI, and Node services in production.
 
-**M.Sc. Computer Science**, Government College University Lahore · 2021  
-Microsoft Data Scientist certification · 2022
+**M.Sc. Computer Science**, Government College University Lahore · 2021
 
 ## Start a project
 
-Email [mail.fiazhussain.dev@gmail.com](mailto:mail.fiazhussain.dev@gmail.com) or message on [WhatsApp](https://wa.me/923483476760). I take freelance work, product builds, and longer engineering support.
+<p align="center">
+  <a href="mailto:mail.fiazhussain.dev@gmail.com"><b>mail.fiazhussain.dev@gmail.com</b></a><br>
+  <sub>Freelance builds, product work, and longer engineering support.</sub>
+</p>
