@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Build, automate, analyze, innovate, scale">
+  <rect width="1200" height="92" rx="18" fill="#101828"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="120" y="54">BUILD</text>
+    <text x="360" y="54">AUTOMATE</text>
+    <text x="600" y="54">ANALYZE</text>
+    <text x="840" y="54">INNOVATE</text>
+    <text x="1080" y="54">SCALE</text>
+  </g>
+  <g stroke="#334155" stroke-width="2">
+    <line x1="240" y1="28" x2="240" y2="64"/>
+    <line x1="480" y1="28" x2="480" y2="64"/>
+    <line x1="720" y1="28" x2="720" y2="64"/>
+    <line x1="960" y1="28" x2="960" y2="64"/>
+  </g>
+</svg>
