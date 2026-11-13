@@ -1,5 +1,3 @@
-<img src="assets/fiaz-hussain-banner.png" alt="Fiaz Hussain" width="100%">
-
 # Fiaz Hussain
 
 **Senior Solution Architect** · web platforms, APIs, automation, and AI
